@@ -1,0 +1,14 @@
+Date: 06/23/2022
+Property Price: $100.00
+State Sales Tax: $6.00
+County Sales Tax: $1.00
+Commission: $6.00
+Total Price: $113.00
+
+Date: 06/23/2022
+Property Price: $100.00
+State Sales Tax: $6.00
+County Sales Tax: $0.00
+Commission: $6.00
+Total Price: $112.00
+
